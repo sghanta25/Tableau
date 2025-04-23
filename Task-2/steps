@@ -1,0 +1,10 @@
+Open Tableau
+Right-click your data source in the Data Pane
+Choose Create Calculated Field
+Name it: Equality Class
+Paste this formula:
+**IF ABS([Equality Score]) <= 10 THEN "Fair"
+ELSEIF ABS([Equality Score]) <= 20 THEN "Unfair"
+ELSE "Highly Discriminative"
+END**
+Click OK
