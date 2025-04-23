@@ -35,9 +35,8 @@ Each folder in this repository contains:
 
 | Project | Description |
 |--------|-------------|
-| **Factory Down Time Analysis** | Identifies machine downtime by factory and device type using telemetry data. |
-| **Sales Performance Dashboard** | Visualizes regional sales, profit margins, and top-performing products. |
-| **Customer Segmentation** | Uses clustering to identify customer behavior patterns and trends. |
+| **Factory Down Time Analysis** | Visualizes machine downtime across different factories and device types using telemetry data. Includes interactive dashboards to identify performance issues and filter downtime by factory. |
+| **Gender Equality Classification** | Classifies job roles across factories based on equality score data. Categorizes them into Fair, Unfair, and Highly Discriminative using a calculated field in Tableau, and presents the results with clear visual insights. |
 
 ---
 
